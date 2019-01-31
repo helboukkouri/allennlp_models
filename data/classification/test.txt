@@ -1,0 +1,4 @@
+__label__negative I don't like tomatoes.
+__label__positive I like singing.
+__label__positive I love video games.
+__label__negative I hate washing the dishes.

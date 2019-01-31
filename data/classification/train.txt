@@ -1,0 +1,4 @@
+__label__positive I like peanuts.
+__label__negative I don't like peppers.
+__label__negative I hate horror movies.
+__label__positive I love rock music.
