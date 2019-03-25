@@ -1,7 +1,12 @@
 # AllenNLP Models
 
-This is a repository listing some basic NLP examples using [AllenNLP](https://allennlp.org/).
+This is a repository of NLP models using [AllenNLP](https://allennlp.org/).<br>
+For each model, there is a simple example showing how to use it in practice.
 
-Right now there are two examples, each using a different model:
-- **Text Classification** using randomly initialized **Word Embeddings** and a **CNN** encoder.
-- **Sequence Labelling** using pre-trained **ELMo** embeddings and a **Bi-LSTM** encoder.
+Right now there are two models:
+- a **Text Classification** model using:
+  - randomly initialized **Word Embeddings**
+  - a **CNN** encoder
+- a **Sequence Labelling** model using:
+  - pre-trained contextualized embeddings (**ELMo**)
+  - a **Bi-LSTM** encoder
