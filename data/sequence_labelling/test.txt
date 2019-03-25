@@ -1,0 +1,14 @@
+Paris B-GPE
+is O
+the O
+capital O
+of O
+France B-GPE
+. O
+
+His O
+name O
+was O
+not O
+James B-PER
+. O

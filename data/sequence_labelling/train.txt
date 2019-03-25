@@ -1,0 +1,11 @@
+My O
+name O
+is O
+Hicham B-PER
+. O
+
+I O
+live O
+in O
+Paris B-GPE
+. O
