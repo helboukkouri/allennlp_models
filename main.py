@@ -183,7 +183,7 @@ if __name__ == "__main__":
     print("=====================================\n")
     classification()
 
-    print("=====================================")
-    print("Running a classification example ...")
-    print("=====================================\n")
+    print("=========================================")
+    print("Running a sequence labelling example ...")
+    print("=========================================\n")
     sequence_labelling()
