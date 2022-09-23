@@ -153,7 +153,7 @@ ply==3.11
 preshed==2.0.1
 prometheus-client==0.3.1
 prompt-toolkit==1.0.15
-protobuf==3.7.1
+protobuf==3.18.3
 psutil==5.4.7
 ptyprocess==0.6.0
 py==1.6.0
